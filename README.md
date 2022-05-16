@@ -26,16 +26,6 @@ I am also an open-source enthusiast and maintainer. I learnt a lot from the open
 - 💼 any freelance work? do reach, [email](mailto:princeth.magutshwa@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-
-## Connect With Me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Prince51494590?t=BQQmRN5WqhC-wxzqgJKnRA&s=09#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Prince51494590?t=BQQmRN5WqhC-wxzqgJKnRA&s=09#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/prince-magutshwa-793466112/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/prince-magutshwa-793466112/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 <br>
 
 
