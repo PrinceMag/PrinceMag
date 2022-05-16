@@ -21,7 +21,7 @@ hi, i'm [Prince Magutshwa](https://princemag.me/), a passionate self-taught full
 I am also an open-source enthusiast and maintainer. I learnt a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/princemag/princemag/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/PrinceMag/PrinceMag/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:princeth.magutshwa@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
