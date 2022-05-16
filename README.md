@@ -9,7 +9,7 @@
   <img align="left" alt="Prince Magutshwa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prince-magutshwa-793466112">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Prince's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=princemag.princemag)
