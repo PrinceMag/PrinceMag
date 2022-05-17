@@ -44,9 +44,10 @@ I am also an open-source enthusiast and maintainer. I learnt a lot from the open
 <!--START_SECTION:waka-->
 
 ```text
-Python   35 hrs   ████████████▓░░░░░░░░░░░░   51.31 %
+Python   35 hrs   ████████████▓░░░░░░░░░ ░░   51.31 %
 Django   20 hrs   ██████████▓░░░░░░░░░░░░░░   42.33 %
 Kivy     30 hrs   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Java     17 hrs   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 VBA      10 hrs   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 Other    15 hrs   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
