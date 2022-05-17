@@ -31,7 +31,7 @@ I am also an open-source enthusiast and maintainer. I learnt a lot from the open
 ## Languages and Tools:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.django.org" target="_blank"> <img src="https://github.com/PrinceMag/PrinceMag/blob/main/django.jfif.gif" alt="django" width="40" height="40"/> </a>
+<a href="https://www.django.org" target="_blank"> <img src="https://github.com/PrinceMag/PrinceMag/blob/main/django.jfif" alt="django" width="40" height="40"/> </a>
 <a href="https://www.kivy.org" target="_blank"> <img src="https://github.com/kivymd/internal/raw/main/logo/kivymd.png" alt="Kivymd" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.react.org" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/> </a>
