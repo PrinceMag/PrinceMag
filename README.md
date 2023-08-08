@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **princeth.magutshwa@gmail.com**
 
-- 📄 Know about my experiences [Click here to redirect to the File](https://drive.google.com/file/d/1PsMd6VEOQ_Ul3EK_9tsDz2zBIhqzmFv-/view?usp=sharing)
+- 📄 Know about my experiences [Click here to redirect to the File](https://drive.google.com/file/d/1AqfVySaiUgzGgewTMdgGGJW8pRlvyxoo/view?usp=sharing)
 
 - ⚡ Fun fact **when my code doesn't compile I use Stack Overflow with the ancient technique of "Ctrl + C" "Ctrl + V"**
 
