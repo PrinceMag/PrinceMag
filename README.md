@@ -281,26 +281,14 @@
 
 <br />
 
-<h2 align="left">Connect with me:</h2>
-<p align="center">
-  <a href="https://twitter.com/Prince51494590" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/PrinceMag/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PrinceMag" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-magutshwa-793466112/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/PrinceMag/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-magutshwa-793466112/" height="30" width="40" />
-  </a>
-</p>
-
-<br />
-
 <h2 align="left">Some Interesting Repositories:</h2>
 <ul align='center'>
   
   |  |  |  |
   | :---: | :---: | :---: |
-  | [![C_Projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=printf&theme=github_dark)](https://github.com/PrinceMag/printf) | [![Java-Projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=sqlMirror&theme=github_dark)](https://github.com/PrinceMag/sqlMirror) | [![alx-system_engineering-devops](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=alx-system_engineering-devops&theme=github_dark)](https://github.com/PrinceMag/alx-system_engineering-devops) |
-  | [![ReactJS_Proyects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=ReactJs_proyects&theme=github_dark)](https://github.com/PrinceMag/ReactJs_proyects) | [![Flutter_projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=beauty_shack&theme=github_dark)](https://github.com/PrinceMag/beauty_shack) | [![alx-low_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=alx-low_level_programming&theme=github_dark)](https://github.com/PrinceMag/alx-low_level_programming) |
-  | [![binary_trees](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=binary_trees&theme=github_dark)](https://github.com/PrinceMag/binary_trees) | [![sorting_algorithms](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=sorting_algorithms&theme=github_dark)](https://github.com/PrinceMag/sorting_algorithms) | [![alx-higher_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=alx-higher_level_programming&theme=github_dark)](https://github.com/PrinceMag/alx-higher_level_programming) |
+  | [![C_Projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=printf&theme=github_dark)](https://github.com/PrinceMag/printf) | [![Django-Projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=Magic&theme=github_dark)](https://github.com/PrinceMag/Magic) | [![alx-system_engineering-devops](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=alx-system_engineering-devops&theme=github_dark)](https://github.com/PrinceMag/alx-system_engineering-devops) |
+  | [![alx-zero_day](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=alx-zero_day&theme=github_dark)](https://github.com/PrinceMag/alx-zero_day) | [![Flutter_projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=beauty_shack&theme=github_dark)](https://github.com/PrinceMag/beauty_shack) | [![alx-low_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=alx-low_level_programming&theme=github_dark)](https://github.com/PrinceMag/alx-low_level_programming) |
+  | [![Kivy_projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=Recycle-App&theme=github_dark)](https://github.com/PrinceMag/Recycle-App) | [![Kivy_projects](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=Ebanking&theme=github_dark)](https://github.com/PrinceMag/Ebanking) | [![alx-higher_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=PrinceMag&repo=alx-higher_level_programming&theme=github_dark)](https://github.com/PrinceMag/alx-higher_level_programming) |
   |  |  |  |
   
 </ul>
